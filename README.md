@@ -18,3 +18,11 @@ ng serve --open
 ng generate  [name of component||service]
 
 https://angular.io/guide/cheatsheet
+
+TODO
+開tags網頁
+call api 網站 
+QuestionTags的列表
+
+
+
