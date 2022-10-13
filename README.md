@@ -24,5 +24,7 @@ TODO
 call api 網站 
 QuestionTags的列表
 
-
-
+10/13
+https://angular.io/guide/architecture
+https://angular.io/tutorial/toh-pt5
+live example https://stackblitz.com/run?file=src%2Fapp%2Fhero-list.component.html
